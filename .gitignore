@@ -1,0 +1,9 @@
+*.class
+out/
+build/
+target/
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
